@@ -159,7 +159,7 @@
 		"name": "Forest",
 		"desc": "This is a dimly lit forest, with large trees all around.  One\nparticularly large tree with some low branches stands here.",
 		"exits": [{
-			"exit": "UP",
+			"exit": "DOWN",
 			"target": "TREE"
 		}, {
 			"exit": "NORTH",
