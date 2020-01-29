@@ -529,7 +529,7 @@
 	},
 	"MGRAT": {
 		"name": "Grating Room",
-		"desc": "",
+		"desc": "If you stay here much longer, you will be eaten by a Grue",
 		"exits": [{
 			"exit": "SW",
 			"target": "MAZ11"
